@@ -11,7 +11,7 @@ If you are having problems installing PyTorch visit the website:
 ## Usage
 
 1. The libraries must be installed before you can start working:
-   `pip install requirements.txt`
+   `pip install -r requirements.txt`
 
 2. Adjust parameters in `utils/config.py`  
    * `IMG_PATH` and `LBL_PATH` should be customized to the dataset folders.  
